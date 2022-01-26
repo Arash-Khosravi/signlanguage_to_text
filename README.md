@@ -2,7 +2,7 @@
 sign language to text application, 
 Tech Stack:
 * OpenCV
-* Tensorflow
+* Tensorflow OBJD API
 * FastAPI
 * AWS
 * ReactJS
